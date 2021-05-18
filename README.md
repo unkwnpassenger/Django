@@ -4,6 +4,7 @@ this is a project using django framwork from inflearn
 #
 1. 가상환경 진입 => venv\Scripts\activate
 2. 가상환경 테스트 => python manage.py runserver
+3. virtualenv : virtual environment(가상환경) => 버전 및 구성환경 유지
 
 
 #
