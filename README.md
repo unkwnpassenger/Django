@@ -15,3 +15,4 @@ this is a project using django framwork from inflearn
 
 
 #
+▶ MTV: Model(data), Template(UI), View(Controller)
