@@ -18,7 +18,7 @@ this is a project using django framwork from inflearn
 #
 ▶ MTV: Model(data), Template(UI), View(Controller)
 ▶ URLs: urls.py (http request)
-▶ View: views.py (controller) => HTML response
+▶ View: views.py (controller) => HTTP request 받아서 HTTP response return
 ▶ Model: models.py (maanges data) -> schema 정의
 ▶ Template: <filename>.html
 
