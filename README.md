@@ -11,8 +11,14 @@ this is a project using django framwork from inflearn
 ▷ venv/manage.py : 장고 앱 관리 및 장고 내 명령어 사용가능(DB setup등)
 ▷ django_proj : 프로젝트 전반 설정, 사이트 내 url 규칙
 ▷ first(webapp) : 웹앱개발 코드가 들어가는 부분(index,select,result=>demo)
-▷ second(webapp) : 게시글관련 코드가 들어가는 부분
+▷ second(webapp) : 게시글관련 코드가 들어가는 부분(list, create, confirmx)
+▷ third(webapp) : 맛집검색 코드가 들어가는 부분(list, )
 
 
 #
 ▶ MTV: Model(data), Template(UI), View(Controller)
+▶ URLs: urls.py (http request)
+▶ View: views.py (controller) => HTML response
+▶ Model: models.py (maanges data)
+▶ Template: <filename>.html
+
